@@ -74,7 +74,7 @@ function calculation(){
 // https://www.geeksforgeeks.org/javascript-eval-function/
 //https://stackoverflow.com/questions/8403108/calling-eval-in-particular-context
 // used chatgpt to find out why value = event.target.innerText wasnt working, changed it to +=
-
+// also used it to find out why if/else wouldnt work for my calculate function
 // make C clear x
 // make - subtract 
 // make + add
