@@ -72,7 +72,7 @@ function calculation(){
 }
 
 // https://www.geeksforgeeks.org/javascript-eval-function/
-https://stackoverflow.com/questions/8403108/calling-eval-in-particular-context
+//https://stackoverflow.com/questions/8403108/calling-eval-in-particular-context
 // used chatgpt to find out why value = event.target.innerText wasnt working, changed it to +=
 
 // make C clear x
